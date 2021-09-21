@@ -1,6 +1,7 @@
 # CustomDecoratorProject
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.5.
+TypeScript 装饰器介绍与示例教程
+ <https://hijiangtao.github.io/2021/09/21/TypeScript-Decorator-Introduction-and-Tutorial/> 一文示例代码
 
 ## Development server
 
